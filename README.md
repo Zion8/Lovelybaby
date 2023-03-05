@@ -1,5 +1,6 @@
 # Lovelybaby
 开启这个资料库的目的是想记录郭老师和我养育小小宝的一些经历，并且可以将它分享给朋友们 --- 创建于小小宝满月
+# [育儿日志&清单&备忘录](https://github.com/Zion8/Lovelybaby/tree/main/main)
 ## 目录
 ### &emsp;1.备孕期
 #### &emsp;&emsp;1.基本知识
